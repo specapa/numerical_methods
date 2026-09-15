@@ -1,0 +1,2 @@
+# initial guess near first positive root on (0.7, 0.9)
+0.9

@@ -1,0 +1,2 @@
+# phi(x) = x - lambda*f(x); |phi'| < 1 near root ~0.8
+-0.2

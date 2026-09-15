@@ -1,0 +1,3 @@
+# polynomial coeffs ascending: c0 + c1*x + c2*x^2 + c3*x^3
+# f(x) = x^3 - 3*x^2 - 2*x + 3
+3 -2 -3 1

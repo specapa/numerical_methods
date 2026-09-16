@@ -1,0 +1,2 @@
+# nodes for case b)
+-3 0 1 3

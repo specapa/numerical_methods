@@ -1,0 +1,2 @@
+# f(x) = arcctg(x); values are computed in code from nodes
+arcctg
